@@ -19,9 +19,9 @@
 
 /* Colors */
 :root {
-  --color-default: #3239ff;
-  --color-primary: #3e4bff;
-  --color-secondary: #5d63ff;
+  --color-default: rgba(50, 110, 198, 0.9);
+  --color-primary: rgba(50, 110, 198, 0.9);
+  --color-secondary: rgba(50, 110, 198, 0.9);
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #406aff;
+  color: #5d63ff;
   text-decoration: none;
 }
 
@@ -1804,7 +1804,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-  background-color: var(--color-secondary);
+  background-color: var(--color-default);
   padding: 50px 0;
   color: white;
 }

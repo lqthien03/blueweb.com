@@ -1,9 +1,15 @@
 <?php
 
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\DemoController;
+use App\Http\Controllers\DomainController;
 use App\Http\Controllers\PricingController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ServiceController;
+use App\Http\Controllers\HostingController;
+use App\Http\Controllers\LienheController;
+use Egulias\EmailValidator\Parser\CommentStrategy\DomainComment;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -29,13 +35,21 @@ Route::controller(ServiceController::class)->group(function () {
 Route::controller(PricingController::class)->group(function () {
     Route::get('/pricing', 'show')->name('show.pricing');
 });
-Route::controller(AboutController::class)->group(function () {
-    Route::get('/about', 'show')->name('show.about');
+Route::controller(HostingController::class)->group(function () {
+    Route::get('/hosting', 'show')->name('show.hosting');
 });
-Route::controller(AboutController::class)->group(function () {
-    Route::get('/about', 'show')->name('show.about');
+Route::controller(DemoController::class)->group(function () {
+    Route::get('/demo', 'show')->name('show.demo');
 });
-
+Route::controller(ContactController::class)->group(function () {
+    Route::get('/contact', 'show')->name('show.contact');
+});
+Route::controller(LienheController::class)->group(function () {
+    Route::get('/lienhe', 'show')->name('show.lienhe');
+});
+Route::controller(DomainController::class)->group(function () {
+    Route::get('/domain', 'show')->name('show.domain');
+});
 
 
 Route::get('/admin', function () {

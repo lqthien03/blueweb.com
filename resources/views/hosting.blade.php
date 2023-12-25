@@ -58,10 +58,10 @@
                 <ul>
                     <li><a href="/">Trang chủ</a></li>
                     <li><a href="/about">Về chúng tôi</a></li>
-                    <li><a href="/service" class="active">Thiết kế website</a></li>
+                    <li><a href="/service">Thiết kế website</a></li>
                     <li><a href="/demo">Mẫu giao diện</a></li>
                     {{-- <li><a href="/pricing">Pricing</a></li> --}}
-                    <li><a href="/hosting">Hosting</a></li>
+                    <li><a href="/hosting" class="active">Hosting</a></li>
                     {{-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i
                                 class="bi bi-chevron-down dropdown-indicator"></i></a>
                         <ul>
@@ -99,8 +99,10 @@
                 <div class="container position-relative">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <h2>Thiết kế Website</h2>
-                            <p>Chào mừng bạn đến với " Blue WEB " - nơi mang đến sự đẳng cấp và chuyên nghiệp cho dịch vụ thiết kế website của bạn. Với tầm nhìn đổi mới và đội ngũ chuyên gia sáng tạo, chúng tôi cam kết tạo ra những trang web độc đáo và hiệu quả, phản ánh đầy đủ giá trị và cái nhìn riêng biệt của doanh nghiệp bạn.</p>
+                            <h2>Pricing</h2>
+                            <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas
+                                consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi
+                                ratione sint. Sit quaerat ipsum dolorem.</p>
                         </div>
                     </div>
                 </div>
@@ -109,7 +111,7 @@
                 <div class="container">
                     <ol>
                         <li><a href="index.html">Trang chủ</a></li>
-                        <li>Gói Thiết kế</li>
+                        <li>Pricing</li>
                     </ol>
                 </div>
             </nav>
@@ -177,7 +179,7 @@
         </section><!-- End Pricing Section -->
 
         <!-- ======= Horizontal Pricing Section ======= -->
-        {{-- <section id="horizontal-pricing" class="horizontal-pricing pt-0">
+        <section id="horizontal-pricing" class="horizontal-pricing pt-0">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
@@ -245,7 +247,7 @@
                 </div><!-- End Pricing Item -->
 
             </div>
-        </section><!-- End Horizontal Pricing Section --> --}}
+        </section><!-- End Horizontal Pricing Section -->
 
     </main><!-- End #main -->
 

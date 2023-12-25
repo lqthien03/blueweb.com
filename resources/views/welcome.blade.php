@@ -197,10 +197,12 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a href="/" class="active">Trang chủ</a></li>
-                    <li><a href="/about">về chúng tôi</a></li>
-                    <li><a href="/service">Các dịch vụ</a></li>
-                    <li><a href="/pricing">Pricing</a></li>
-                    <li class="dropdown"><a href="#"><span>Drop Down</span> <i
+                    <li><a href="/about">Về chúng tôi</a></li>
+                    <li><a href="/service">Thiết kế website</a></li>
+                    <li><a href="/demo">Mẫu giao diện</a></li>
+                    {{-- <li><a href="/pricing">Pricing</a></li> --}}
+                    <li><a href="/hosting">Hosting</a></li>
+                    {{-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i
                                 class="bi bi-chevron-down dropdown-indicator"></i></a>
                         <ul>
                             <li><a href="#">Drop Down 1</a></li>
@@ -218,9 +220,9 @@
                             <li><a href="#">Drop Down 3</a></li>
                             <li><a href="#">Drop Down 4</a></li>
                         </ul>
-                    </li>
-                    <li><a href="contact.html">Liên hệ</a></li>
-                    <li><a class="get-a-quote" href="get-a-quote.html">Báo giá</a></li>
+                    </li> --}}
+                    <li><a href="/domain">Domain</a></li>
+                    <li><a class="get-a-quote" href="/lienhe">Liên hệ tư vấn</a></li>
                 </ul>
             </nav><!-- .navbar -->
 
@@ -248,7 +250,7 @@
                             <div class="stats-item text-center w-100 h-100">
                                 <span data-purecounter-start="0" data-purecounter-end="232"
                                     data-purecounter-duration="1" class="purecounter"></span>
-                                <p>Clients</p>
+                                <p>Khách hàng</p>
                             </div>
                         </div><!-- End Stats Item -->
 
@@ -256,7 +258,7 @@
                             <div class="stats-item text-center w-100 h-100">
                                 <span data-purecounter-start="0" data-purecounter-end="521"
                                     data-purecounter-duration="1" class="purecounter"></span>
-                                <p>Projects</p>
+                                <p>Các dự án</p>
                             </div>
                         </div><!-- End Stats Item -->
 
@@ -264,7 +266,7 @@
                             <div class="stats-item text-center w-100 h-100">
                                 <span data-purecounter-start="0" data-purecounter-end="1453"
                                     data-purecounter-duration="1" class="purecounter"></span>
-                                <p>Support</p>
+                                <p>Hỗ trợ</p>
                             </div>
                         </div><!-- End Stats Item -->
 
@@ -272,7 +274,7 @@
                             <div class="stats-item text-center w-100 h-100">
                                 <span data-purecounter-start="0" data-purecounter-end="32"
                                     data-purecounter-duration="1" class="purecounter"></span>
-                                <p>Workers</p>
+                                <p>Nhân viên</p>
                             </div>
                         </div><!-- End Stats Item -->
 
@@ -280,7 +282,7 @@
                 </div>
 
                 <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-                    <img src="assets/img/hero-img.svg" class="img-fluid mb-3 mb-lg-0" alt="">
+                    <img src="assets/img/hero-img`.svg" class="img-fluid mb-3 mb-lg-0" alt="">
                 </div>
 
             </div>

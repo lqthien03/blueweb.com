@@ -58,9 +58,11 @@
                 <ul>
                     <li><a href="/">Trang chủ</a></li>
                     <li><a href="/about">Về chúng tôi</a></li>
-                    <li><a href="/service">Các dịch vụ</a></li>
-                    <li><a href="/pricing" class="active">Pricing</a></li>
-                    <li class="dropdown"><a href="#"><span>Drop Down</span> <i
+                    <li><a href="/service">Thiết kế website</a></li>
+                    <li><a href="/demo">Mẫu giao diện</a></li>
+                    {{-- <li><a href="/pricing" class="active">Pricing</a></li> --}}
+                    <li><a href="/hosting">Hosting</a></li>
+                    {{-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i
                                 class="bi bi-chevron-down dropdown-indicator"></i></a>
                         <ul>
                             <li><a href="#">Drop Down 1</a></li>
@@ -78,9 +80,9 @@
                             <li><a href="#">Drop Down 3</a></li>
                             <li><a href="#">Drop Down 4</a></li>
                         </ul>
-                    </li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a class="get-a-quote" href="get-a-quote.html">Báo giá</a></li>
+                    </li> --}}
+                    <li><a href="/contact">Domain</a></li>
+                    <li><a class="get-a-quote" href="/lienhe">Liên hệ báo giá</a></li>
                 </ul>
             </nav><!-- .navbar -->
 
