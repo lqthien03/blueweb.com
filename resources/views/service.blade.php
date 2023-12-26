@@ -95,7 +95,7 @@
         <!-- ======= Breadcrumbs ======= -->
         <div class="breadcrumbs">
             <div class="page-header d-flex align-items-center"
-                style="background-image: url('assets/img/page-header.jpg');">
+                style="background-image: url('assets/img/logobody.jpg');">
                 <div class="container position-relative">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-6 text-center">
@@ -148,8 +148,7 @@
                                 <li><i class="bi bi-check"></i> Moblie/ Responsive</li>
                                 <li><i class="bi bi-check"></i> Giỏ hàng/ đặt lịch cơ bản</li>
                                 <li><i class="bi bi-check"></i> Thông báo đẩy ( Onesignal)</li>
-                                <li><i class="bi bi-check"></i> Google dịch</li>
-                                <li><i class="bi bi-check"></i> Song ngữ</li>
+                                <li><i class="bi bi-check"></i> Google dịch/ Song ngữ</li>
                             </ul>
                             <a href="#" class="buy-btn">9.000.000</a>
                         </div>

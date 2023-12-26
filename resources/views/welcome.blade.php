@@ -298,35 +298,32 @@
                 <div class="row gy-4">
 
                     <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-                        <div class="icon flex-shrink-0"><i class="fa-solid fa-cart-flatbed"></i></div>
+                        <div class="icon flex-shrink-0"><i class="bi bi-house-lock"></i></i></div>
                         <div>
-                            <h4 class="title">Lorem Ipsum</h4>
-                            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias
-                                excepturi sint occaecati cupiditate non provident</p>
-                            <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i
+                            <h4 class="title">Website Hiện Đại</h4>
+                            <p class="description">Trang web của chúng tôi được thiết kế chuyên nghiệp, dễ sử dụng trên mọi thiết bị, đảm bảo trải nghiệm người dùng tốt nhất.</p>
+                            <a href="/service" class="readmore stretched-link"><span>Learn More</span><i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                     <!-- End Service Item -->
 
                     <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-                        <div class="icon flex-shrink-0"><i class="fa-solid fa-truck"></i></div>
+                        <div class="icon flex-shrink-0"><i class="bi bi-file-earmark-word"></i></div>
                         <div>
-                            <h4 class="title">Dolor Sitema</h4>
-                            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat tarad limino ata</p>
-                            <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i
+                            <h4 class="title">Tên Miền Độc Đáo</h4>
+                            <p class="description">Chúng tôi sở hữu tên miền phản ánh chính xác về chuyên nghiệp và dễ nhớ, tạo sự tin cậy cho thương hiệu của bạn.</p>
+                            <a href="/domain" class="readmore stretched-link"><span>Learn More</span><i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
 
                     <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-                        <div class="icon flex-shrink-0"><i class="fa-solid fa-truck-ramp-box"></i></div>
+                        <div class="icon flex-shrink-0"><i class="bi bi-hdd-stack"></i></div>
                         <div>
-                            <h4 class="title">Sed ut perspiciatis</h4>
-                            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur</p>
-                            <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i
+                            <h4 class="title">Hosting An Toàn, Ổn Định</h4>
+                            <p class="description">Dịch vụ hosting của chúng tôi cung cấp hiệu suất cao và bảo mật, đảm bảo website luôn hoạt động mượt mà và an toàn.</p>
+                            <a href="/hosting" class="readmore stretched-link"><span>Learn More</span><i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div><!-- End Service Item -->
@@ -337,44 +334,41 @@
         </section><!-- End Featured Services Section -->
 
         <!-- ======= About Us Section ======= -->
-        <section id="about" class="about pt-0">
+        <section id="about" class="about">
             <div class="container" data-aos="fade-up">
 
                 <div class="row gy-4">
                     <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-                        <img src="assets/img/about.jpg" class="img-fluid" alt="">
-                        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+                        <br><br><img src="assets/img/logobody.jpg" class="img-fluid" alt="">
+                        <a href="https://youtu.be/Jgke6vX4ltA?si=Ga_yiAT12JS1GAFQ" class="glightbox play-btn"></a>
+
                     </div>
                     <div class="col-lg-6 content order-last  order-lg-first">
                         <h3>Về chúng tôi</h3>
                         <p>
-                            Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas
-                            deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam
-                            ut eius incidunt reiciendis veritatis asperiores placeat.
+                            "Blue Web" tự hào là đối tác đáng tin cậy trong lĩnh vực thiết kế website, chúng tôi kết hợp sự sáng tạo, chuyên nghiệp và chất lượng để đáp ứng mọi nhu cầu của khách hàng. Với một đội ngũ chuyên gia đa ngành và tận tâm, chúng tôi không chỉ xây dựng các trang web, mà còn làm nổi bật giá trị độc đáo của doanh nghiệp bạn.
                         </p>
                         <ul>
                             <li data-aos="fade-up" data-aos-delay="100">
                                 <i class="bi bi-diagram-3"></i>
                                 <div>
-                                    <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                                    <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade
+                                    <h5>Sự Sáng Tạo Không Giới Hạn</h5>
+                                    <p>Đội ngũ thiết kế của chúng tôi luôn tìm kiếm những ý tưởng mới, độc đáo và phù hợp với xu hướng để tạo ra các trang web đẹp mắt và thu hút.
                                     </p>
                                 </div>
                             </li>
                             <li data-aos="fade-up" data-aos-delay="200">
                                 <i class="bi bi-fullscreen-exit"></i>
                                 <div>
-                                    <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                                    <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna
-                                        pasata redi</p>
+                                    <h5>Chất Lượng và Hiệu Suất</h5>
+                                    <p>Chúng tôi cam kết đảm bảo chất lượng cao trong từng chi tiết, từ thiết kế đến mã nguồn, nhằm đảm bảo hiệu suất và tính ổn định của trang web.</p>
                                 </div>
                             </li>
                             <li data-aos="fade-up" data-aos-delay="300">
                                 <i class="bi bi-broadcast"></i>
                                 <div>
-                                    <h5>Voluptatem et qui exercitationem</h5>
-                                    <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime
-                                        veniam</p>
+                                    <h5>Chăm Sóc Khách Hàng Tận Tâm</h5>
+                                    <p>Sự hài lòng của bạn là mục tiêu hàng đầu của chúng tôi. Chúng tôi cung cấp dịch vụ hỗ trợ khách hàng liên tục để đảm bảo rằng mọi yêu cầu và thắc mắc của bạn được giải đáp một cách nhanh chóng và hiệu quả.</p>
                                 </div>
                             </li>
                         </ul>
@@ -389,8 +383,8 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
-                    <span>Dịch vụ của chúng tôi</span>
-                    <h2>Dịch vụ của chúng tôi</h2>
+                    <span>Thiết kế đa lĩnh vực</span>
+                    <h2>Thiết kế đa lĩnh vực</h2>
 
                 </div>
 
@@ -399,66 +393,60 @@
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/storage-service.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/.jpg" alt="" class="img-fluid">
                             </div>
-                            <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-                            <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam
-                                repellendus temporibus itaqueofficiis odit</p>
+                            <h3><a href="/service" class="stretched-link">Thương Mại Điện Tử</a></h3>
+                            <p>Tạo cửa hàng trực tuyến để bán sản phẩm và dịch vụ, với tính năng giỏ hàng, thanh toán trực tuyến và quản lý đơn hàng.</p>
                         </div>
                     </div><!-- End Card Item -->
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/BlueWebtics-service.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/.jpg" alt="" class="img-fluid">
                             </div>
-                            <h3><a href="service-details.html" class="stretched-link">BlueWebtics</a></h3>
-                            <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt
-                                molestiae dolor ipsam ducimus occaecati nisi</p>
+                            <h3><a href="/service" class="stretched-link">Giáo Dục</a></h3>
+                            <p>Xây dựng nền tảng học trực tuyến với nhiều khóa học, tài liệu, bài kiểm tra và hỗ trợ tương tác giữa giáo viên và học viên.</p>
                         </div>
                     </div><!-- End Card Item -->
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/cargo-service.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/.jpg" alt="" class="img-fluid">
                             </div>
-                            <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-                            <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit
-                                doloremque oluptatem aut et molestiae ut et nihil</p>
+                            <h3><a href="/service" class="stretched-link">Du Lịch</a></h3>
+                            <p>Cung cấp thông tin về các khách sạn, đặt phòng trực tuyến, và tạo cơ hội cho người dùng đánh giá và chia sẻ đánh giá.</p>
                         </div>
                     </div><!-- End Card Item -->
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/trucking-service.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/jpg" alt="" class="img-fluid">
                             </div>
-                            <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-                            <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit
-                                doloremque oluptatem aut et molestiae ut et nihil</p>
+                            <h3><a href="/service" class="stretched-link">Y Tế</a></h3>
+                            <p>Tích hợp chức năng đặt lịch hẹn trực tuyến với các bác sĩ và cung cấp thông tin về các dịch vụ y tế.</p>
                         </div>
                     </div><!-- End Card Item -->
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/packaging-service.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/.jpg" alt="" class="img-fluid">
                             </div>
-                            <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-                            <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum
-                                onsequuntur maiores beatae consequatur magni voluptates</p>
+                            <h3><a href="/service" class="stretched-link">Nghệ Thuật và Giải Trí</a></h3>
+                            <p>Hiển thị các tác phẩm nghệ thuật, triển lãm, và tạo không gian tương tác cho người yêu nghệ thuật.</p>
                         </div>
                     </div><!-- End Card Item -->
 
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
                         <div class="card">
                             <div class="card-img">
-                                <img src="assets/img/warehousing-service.jpg" alt="" class="img-fluid">
+                                <img src="assets/img/ce.jpg" alt="" class="img-fluid">
                             </div>
-                            <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-                            <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi
-                                quisquam aut nostrum unde et qui est non quo nulla</p>
+                            <h3><a href="/service" class="stretched-link">Công Nghiệp</a></h3>
+                            <p>Giới thiệu về công ty, sản phẩm, và dự án đã thực hiện, cung cấp thông tin liên hệ và tuyển dụng.</p>
                         </div>
                     </div><!-- End Card Item -->
 
@@ -473,11 +461,9 @@
 
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h3>Call To Action</h3>
-                        <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum.</p>
-                        <a class="cta-btn" href="#">Call To Action</a>
+                        <h3>Liên hệ cho chúng tôi</h3>
+                        <p> Chúng tôi luôn sẵn lòng lắng nghe và hỗ trợ bạn. Đừng ngần ngại liên hệ với chúng tôi để có thêm thông tin hoặc giải đáp mọi thắc mắc.</p>
+                        <a class="cta-btn" href="#">Liên hệ</a>
                     </div>
                 </div>
 
@@ -485,7 +471,7 @@
         </section><!-- End Call To Action Section -->
 
         <!-- ======= Features Section ======= -->
-        <section id="features" class="features">
+        {{-- <section id="features" class="features">
             <div class="container">
 
                 <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
@@ -572,15 +558,15 @@
                 </div><!-- Features Item -->
 
             </div>
-        </section><!-- End Features Section -->
+        </section><!-- End Features Section --> --}}
 
         <!-- ======= Pricing Section ======= -->
         <section id="pricing" class="pricing pt-0">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
-                    <span>Pricing</span>
-                    <h2>Pricing</h2>
+                    <span>Giá thiết kế</span>
+                    <h2>Giá thiết kế</h2>
 
                 </div>
 
@@ -588,48 +574,51 @@
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                         <div class="pricing-item">
-                            <h3>Free Plan</h3>
-                            <h4><sup>$</sup>0<span> / month</span></h4>
+                            <h3>Website cơ bản</h3>
+                            <!-- <h5>6.000.000</h5> -->
+
                             <ul>
-                                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span>
-                                </li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis
-                                        hendrerit</span></li>
+                                <li><i class="bi bi-check"></i> Trang website cơ bản</li>
+                                <li><i class="bi bi-check"></i> Tìm kiếm cơ bản</li>
+                                <li><i class="bi bi-check"></i> Đóng dấu hình ảnh sản phẩm</li>
+                                <li><i class="bi bi-check"></i> Tối ưu link</li>
+                                <li><i class="bi bi-check"></i> Sơ đồ website</li>
+                                <li><i class="bi bi-check"></i> Tặng gói bảo mật SSl</li>
                             </ul>
-                            <a href="#" class="buy-btn">Buy Now</a>
+                            <a href="#" class="buy-btn">6.000.000</a>
                         </div>
                     </div><!-- End Pricing Item -->
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                         <div class="pricing-item featured">
-                            <h3>Business Plan</h3>
-                            <h4><sup>$</sup>29<span> / month</span></h4>
+                            <h3>Website phổ thông</h3>
+                            <!-- <h5></h5> -->
                             <ul>
-                                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
+                                <li><i class="bi bi-check"></i> Gói website cơ bản</li>
+                                <li><i class="bi bi-check"></i> Popup quảng cáo</li>
+                                <li><i class="bi bi-check"></i> Moblie/ Responsive</li>
+                                <li><i class="bi bi-check"></i> Giỏ hàng/ đặt lịch cơ bản</li>
+                                <li><i class="bi bi-check"></i> Thông báo đẩy ( Onesignal)</li>
+                                <li><i class="bi bi-check"></i> Google dịch/ Song ngữ</li>
+
                             </ul>
-                            <a href="#" class="buy-btn">Buy Now</a>
+                            <a href="#" class="buy-btn">9.000.000</a>
                         </div>
                     </div><!-- End Pricing Item -->
 
                     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
                         <div class="pricing-item">
-                            <h3>Developer Plan</h3>
-                            <h4><sup>$</sup>49<span> / month</span></h4>
+                            <h3>Website cao cấp</h3>
+                            <!-- <h4><sup>$</sup>49<span> / month</span></h4> -->
                             <ul>
-                                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
+                                <li><i class="bi bi-check"></i> Gói website phổ thông</li>
+                                <li><i class="bi bi-check"></i> Tìm kiếm nâng cao</li>
+                                <li><i class="bi bi-check"></i> Đăng ký, đăng nhập</li>
+                                <li><i class="bi bi-check"></i> Thanh toán trực tuyến</li>
+                                <li><i class="bi bi-check"></i> Phí vận chuyển</li>
+                                <li><i class="bi bi-check"></i> Xuất/ nhập file excel</li>
                             </ul>
-                            <a href="#" class="buy-btn">Buy Now</a>
+                            <a href="#" class="buy-btn">12.000.000</a>
                         </div>
                     </div><!-- End Pricing Item -->
 
@@ -638,8 +627,81 @@
             </div>
         </section><!-- End Pricing Section -->
 
+        <!-- ======= Horizontal Pricing Section ======= -->
+        {{-- <section id="horizontal-pricing" class="horizontal-pricing pt-0">
+            <div class="container" data-aos="fade-up">
+
+                <div class="section-header">
+                    <span>Horizontal Pricing</span>
+                    <h2>Horizontal Pricing</h2>
+
+                </div>
+
+                <div class="row gy-4 pricing-item" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>Free Plan</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4><sup>$</sup>0<span> / month</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                            <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="row gy-4 pricing-item featured mt-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>Business Plan</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4><sup>$</sup>29<span> / month</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> <strong>Nec feugiat nisl pretium</strong></li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>Developer Plan</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4><sup>$</sup>49<span> / month</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+            </div>
+        </section><!-- End Horizontal Pricing Section --> --}}
+
+    {{-- </main><!-- End #main -->g Section --> --}}
+
         <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials">
+        {{-- <section id="testimonials" class="testimonials">
             <div class="container">
 
                 <div class="slides-1 swiper" data-aos="fade-up">
@@ -755,15 +817,15 @@
                 </div>
 
             </div>
-        </section><!-- End Testimonials Section -->
+        </section><!-- End Testimonials Section --> --}}
 
         <!-- ======= Frequently Asked Questions Section ======= -->
         <section id="faq" class="faq">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
-                    <span>Frequently Asked Questions</span>
-                    <h2>Frequently Asked Questions</h2>
+                    <span>Các câu hỏi thường gặp</span>
+                    <h2>Các câu hỏi thường gặp</h2>
 
                 </div>
 
@@ -777,15 +839,13 @@
                                     <button class="accordion-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                                         <i class="bi bi-question-circle question-icon"></i>
-                                        Non consectetur a erat nam at lectus urna duis?
+                                        Tại sao tôi cần một trang web chuyên nghiệp cho doanh nghiệp của mình?
                                     </button>
                                 </h3>
                                 <div id="faq-content-1" class="accordion-collapse collapse"
                                     data-bs-parent="#faqlist">
                                     <div class="accordion-body">
-                                        Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus
-                                        laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
-                                        rhoncus dolor purus non.
+                                        Một trang web chuyên nghiệp không chỉ tạo ấn tượng mạnh mẽ với khách hàng mà còn giúp tăng cường uy tín thương hiệu, mở rộng tầm ảnh hưởng và thu hút đối tác tiềm năng.
                                     </div>
                                 </div>
                             </div><!-- # Faq item-->
@@ -795,16 +855,13 @@
                                     <button class="accordion-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                                         <i class="bi bi-question-circle question-icon"></i>
-                                        Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+                                        Bạn có thể tối ưu hóa trang web của tôi cho công cụ tìm kiếm không?
                                     </button>
                                 </h3>
                                 <div id="faq-content-2" class="accordion-collapse collapse"
                                     data-bs-parent="#faqlist">
                                     <div class="accordion-body">
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                        interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                        scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                        Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                        Đúng vậy! Chúng tôi tích hợp các kỹ thuật tối ưu hóa công cụ tìm kiếm (SEO) để đảm bảo trang web của bạn xuất hiện cao trên các công cụ tìm kiếm và thu hút lượng lớn người truy cập.
                                     </div>
                                 </div>
                             </div><!-- # Faq item-->
@@ -814,16 +871,13 @@
                                     <button class="accordion-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                                         <i class="bi bi-question-circle question-icon"></i>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                                        Trang web của tôi có thể tương tác tốt trên điện thoại di động không?
                                     </button>
                                 </h3>
                                 <div id="faq-content-3" class="accordion-collapse collapse"
                                     data-bs-parent="#faqlist">
                                     <div class="accordion-body">
-                                        Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci.
-                                        Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl
-                                        suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis
-                                        convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                        Đúng, chúng tôi thiết kế trang web sao cho nó hoàn hảo trên mọi thiết bị, bao gồm cả điện thoại di động và máy tính bảng, để đảm bảo trải nghiệm người dùng tốt nhất.
                                     </div>
                                 </div>
                             </div><!-- # Faq item-->
@@ -833,17 +887,14 @@
                                     <button class="accordion-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                                         <i class="bi bi-question-circle question-icon"></i>
-                                        Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                                        Bảo dưỡng và hỗ trợ kỹ thuật được cung cấp như thế nào?
                                     </button>
                                 </h3>
                                 <div id="faq-content-4" class="accordion-collapse collapse"
                                     data-bs-parent="#faqlist">
                                     <div class="accordion-body">
                                         <i class="bi bi-question-circle question-icon"></i>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                        interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                        scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
-                                        Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                        Chúng tôi cung cấp các gói bảo dưỡng và hỗ trợ linh hoạt để đảm bảo rằng trang web của bạn luôn hoạt động ổn định. Bạn có thể liên hệ với chúng tôi bất cứ lúc nào để giải đáp thắc mắc hoặc giải quyết vấn đề.
                                     </div>
                                 </div>
                             </div><!-- # Faq item-->
@@ -853,16 +904,13 @@
                                     <button class="accordion-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                                         <i class="bi bi-question-circle question-icon"></i>
-                                        Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+                                        Làm thế nào để đánh giá hiệu suất của trang web sau khi triển khai?
                                     </button>
                                 </h3>
                                 <div id="faq-content-5" class="accordion-collapse collapse"
                                     data-bs-parent="#faqlist">
                                     <div class="accordion-body">
-                                        Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim
-                                        suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan.
-                                        Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit
-                                        turpis cursus in
+                                        Chúng tôi sử dụng các công cụ phân tích web để theo dõi hiệu suất trang web, đồng thời chúng tôi sẵn sàng hỗ trợ bạn thực hiện các chiến lược tối ưu hóa dựa trên dữ liệu này.
                                     </div>
                                 </div>
                             </div><!-- # Faq item-->
@@ -875,7 +923,6 @@
             </div>
         </section><!-- End Frequently Asked Questions Section -->
 
-    </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">

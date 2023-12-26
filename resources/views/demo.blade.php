@@ -96,14 +96,12 @@
         <!-- ======= Breadcrumbs ======= -->
         <div class="breadcrumbs">
             <div class="page-header d-flex align-items-center"
-                style="background-image: url('assets/img/page-header.jpg');">
+                style="background-image: url('assets/img/logobody.jpg');">
                 <div class="container position-relative">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <h2>Các dịch vụ</h2>
-                            <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas
-                                consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi
-                                ratione sint. Sit quaerat ipsum dolorem.</p>
+                            <h2>Kho giao diện mẫu</h2>
+                            <p>Chào mừng bạn đến với kho giao diện mẫu của chúng tôi - nơi nâng cao trải nghiệm thiết kế website của bạn với sự thuận tiện và sự độc đáo. Với sự sáng tạo và linh hoạt, kho giao diện mẫu của chúng tôi mang lại nhiều ưu điểm cho mọi dự án trực tuyến của bạn.</p>
                         </div>
                     </div>
                 </div>
@@ -112,14 +110,14 @@
                 <div class="container">
                     <ol>
                         <li><a href="index.html">Trang chủ</a></li>
-                        <li>Services</li>
+                        <li>Kho giao diện</li>
                     </ol>
                 </div>
             </nav>
         </div><!-- End Breadcrumbs -->
 
         <!-- ======= Featured Services Section ======= -->
-        <section id="featured-services" class="featured-services">
+        {{-- <section id="featured-services" class="featured-services">
             <div class="container">
 
                 <div class="row gy-4">
@@ -573,7 +571,7 @@
             </div>
         </section><!-- End Frequently Asked Questions Section -->
 
-    </main><!-- End #main -->
+    </main><!-- End #main --> --}}
 
     <!-- ======= Footer ======= -->
     <footer id="footer" class="footer">

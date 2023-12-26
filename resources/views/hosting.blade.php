@@ -95,14 +95,12 @@
         <!-- ======= Breadcrumbs ======= -->
         <div class="breadcrumbs">
             <div class="page-header d-flex align-items-center"
-                style="background-image: url('assets/img/page-header.jpg');">
+                style="background-image: url('assets/img/logobody.jpg');">
                 <div class="container position-relative">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <h2>Pricing</h2>
-                            <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas
-                                consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi
-                                ratione sint. Sit quaerat ipsum dolorem.</p>
+                            <h2>Hosting</h2>
+                            <p>Chào mừng bạn đến với dịch vụ hosting của chúng tôi - nơi nâng cao trải nghiệm trực tuyến của bạn với sự ổn định, hiệu suất và an toàn tuyệt vời. Dưới đây là những điểm nổi bật về dịch vụ hosting của chúng tôi.</p>
                         </div>
                     </div>
                 </div>
@@ -111,14 +109,14 @@
                 <div class="container">
                     <ol>
                         <li><a href="index.html">Trang chủ</a></li>
-                        <li>Pricing</li>
+                        <li>Hosting</li>
                     </ol>
                 </div>
             </nav>
         </div><!-- End Breadcrumbs -->
 
         <!-- ======= Pricing Section ======= -->
-        <section id="pricing" class="pricing">
+        {{-- <section id="pricing" class="pricing">
             <div class="container" data-aos="fade-up">
 
                 <div class="row gy-4">
@@ -176,51 +174,32 @@
                 </div>
 
             </div>
-        </section><!-- End Pricing Section -->
+        </section><!-- End Pricing Section --> --}}
 
         <!-- ======= Horizontal Pricing Section ======= -->
         <section id="horizontal-pricing" class="horizontal-pricing pt-0">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-header">
-                    <span>Horizontal Pricing</span>
-                    <h2>Horizontal Pricing</h2>
+                    <span>Gói hosting</span>
+                    <h2>Gói hosting</h2>
 
                 </div>
 
                 <div class="row gy-4 pricing-item" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <h3>Free Plan</h3>
+                        <h3>3 GB</h3>
                     </div>
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <h4><sup>$</sup>0<span> / month</span></h4>
+                        <h4>2,845,000<sup>đ</sup><span> / năm</span></h4>
                     </div>
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <ul>
+                        {{-- <ul>
                             <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
                             <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
                             <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span>
                             </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
-                    </div>
-                </div><!-- End Pricing Item -->
-
-                <div class="row gy-4 pricing-item featured mt-4" data-aos="fade-up" data-aos-delay="200">
-                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <h3>Business Plan</h3>
-                    </div>
-                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <h4><sup>$</sup>29<span> / month</span></h4>
-                    </div>
-                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <ul>
-                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                            <li><i class="bi bi-check"></i> <strong>Nec feugiat nisl pretium</strong></li>
-                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                        </ul>
+                        </ul> --}}
                     </div>
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
                         <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
@@ -229,17 +208,133 @@
 
                 <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <h3>Developer Plan</h3>
+                        <h3>5 GB</h3>
                     </div>
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <h4><sup>$</sup>49<span> / month</span></h4>
+                        <h4>4,141,200<sup>đ</sup><span> / năm</span></h4>
                     </div>
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
-                        <ul>
+                        {{-- <ul>
                             <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
                             <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
                             <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                        </ul>
+                        </ul> --}}
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+
+                <div class="row gy-4 pricing-item featured mt-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>10 GB</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4>6,120,000<sup>đ</sup><span> / năm</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        {{-- <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> <strong>Nec feugiat nisl pretium</strong></li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul> --}}
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>16 GB</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4>8,568,000<sup>đ</sup><span> / năm</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        {{-- <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul> --}}
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>20 GB</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4>10,200,000<sup>đ</sup><span> / năm</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        {{-- <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul> --}}
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+
+                <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>30 GB</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4>13,668,000<sup>đ</sup><span> / năm</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        {{-- <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul> --}}
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>50 GB</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4>20,400,000<sup>đ</sup><span> / năm</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        {{-- <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul> --}}
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                    </div>
+                </div><!-- End Pricing Item -->
+
+                <div class="row gy-4 pricing-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h3>100 GB</h3>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        <h4>36,720,000<sup>đ</sup><span> / năm</span></h4>
+                    </div>
+                    <div class="col-lg-3 d-flex align-items-center justify-content-center">
+                        {{-- <ul>
+                            <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
+                            <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
+                            <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
+                        </ul> --}}
                     </div>
                     <div class="col-lg-3 d-flex align-items-center justify-content-center">
                         <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>

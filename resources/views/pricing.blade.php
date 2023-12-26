@@ -81,7 +81,7 @@
                             <li><a href="#">Drop Down 4</a></li>
                         </ul>
                     </li> --}}
-                    <li><a href="/contact">Domain</a></li>
+                    <li><a href="/domain">Domain</a></li>
                     <li><a class="get-a-quote" href="/lienhe">Liên hệ báo giá</a></li>
                 </ul>
             </nav><!-- .navbar -->
